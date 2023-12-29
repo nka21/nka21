@@ -4,9 +4,6 @@
 #
 ![](https://github-stats-evirunurm.vercel.app/api/stats.js?username=nka21)
 
-![](https://github-stats-evirunurm.vercel.app/api/languages.js?username=nka21)
-
-
 # My Skill (Programming Languages, Frameworks and Tools)
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,next,github,vscode,discord,php,gutlab" /> <br />
