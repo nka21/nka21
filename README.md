@@ -34,6 +34,6 @@
   </tr>
 </table>
 
-<img src='/assets/KawaiiLogos React.png'>
-<img src='/assets/TypeScript logo.png'>
-<img src='/assets/KawaiiLogos Tailwindcss.png'>
+<img width=500px src='/assets/KawaiiLogos React.png'>
+<img width=500px src='/assets/TypeScript logo.png'>
+<img width=500px src='/assets/KawaiiLogos Tailwindcss.png'>
