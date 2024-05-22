@@ -13,7 +13,7 @@
       <img src="https://blog-imgs-45-origin.fc2.com/a/h/o/ahoxahoxaho/miniikamusume8.gif">
     </td>
     <td>
-      <img width=500px src="https://github-readme-stats.vercel.app/api/top-langs/?username=nka21&layout=compact&bg_color=222831&theme=gotham">
+      <img width=500px src="https://github-readme-stats.vercel.app/api/top-langs/?username=nka21&layout=compact&theme=github_dark_dimmed">
     </td>
   </tr>
 </table>
@@ -34,6 +34,7 @@
   </tr>
 </table>
 
-<img width=500px src='/assets/KawaiiLogos React.png'>
-<img width=500px src='/assets/TypeScript logo.png'>
-<img width=500px src='/assets/KawaiiLogos Tailwindcss.png'>
+<!-- -------------------------------- license -------------------------------- -->
+<div align='right'>
+  <a href='https://github.com/SAWARATSUKI/KawaiiLogos'>KawaiiLogos↗︎</a>
+</div>
