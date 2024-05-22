@@ -1,8 +1,7 @@
-<br><br><br>
 <div align="center">
-  <img src='/assets/bg.png'>
+  <img src='/assets/header.png'>
 </div>
-<br><br><br>
+<br><br>
 
 <!-- -------------------------------- table -------------------------------- -->
 
