@@ -1,7 +1,7 @@
 <!-- -------------------------------- header -------------------------------- -->
 
 <div align="center">
-  <img src='/assets/header.png'>
+  <img width=500px src='/assets/header.png' alt="my-banner">
 </div>
 <br>
 
@@ -10,10 +10,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://blog-imgs-45-origin.fc2.com/a/h/o/ahoxahoxaho/miniikamusume8.gif">
+      <img width=500px height=200px src="https://github-readme-stats.vercel.app/api?username=nka21&theme=github_dark_dimmed&show_icons=true" alt="github-stats">
     </td>
     <td>
-      <img width=500px src="https://github-readme-stats.vercel.app/api/top-langs/?username=nka21&layout=compact&theme=github_dark_dimmed">
+      <img width=500px height=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=nka21&layout=compact&theme=github_dark_dimmed" alt="github-stats">
     </td>
   </tr>
 </table>
@@ -23,13 +23,13 @@
 <table>
   <tr>
     <td>
-      <img src='/assets/KawaiiLogos React.png'>
+      <img width=320px src='/assets/KawaiiLogos React.png'>
     </td>
     <td>
-      <img src='/assets/TypeScript logo.png'>
+      <img width=320px src='/assets/TypeScript logo.png'>
     </td>
     <td>
-      <img src='/assets/KawaiiLogos Tailwindcss.png'>
+      <img width=320px src='/assets/KawaiiLogos Tailwindcss.png'>
     </td>
   </tr>
 </table>
