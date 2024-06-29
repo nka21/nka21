@@ -20,19 +20,20 @@
 
 <!-- -------------------------------- skills -------------------------------- -->
 
-<table>
-  <tr>
-    <td>
-      <img width=320px src='/assets/KawaiiLogos React.png'>
-    </td>
-    <td>
-      <img width=320px src='/assets/TypeScript logo.png'>
-    </td>
-    <td>
-      <img width=320px src='/assets/KawaiiLogos Tailwindcss.png'>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <h2>Skills</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,ts,py,php,java" />
+  <h3></h3>
+    <img src="https://skillicons.dev/icons?i=npm,yarn,pnpm" />
+  <h3></h3>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,astro,tailwind,threejs,discordjs" />
+  <h3></h3>
+    <img src="https://skillicons.dev/icons?i=aws,docker,vite,supabase,mysql,vercel,cloudflare" />
+  <h3></h3>
+    <img src="https://skillicons.dev/icons?i=blender,unity,figma" />
+  </a>
+</p>
 
 <!-- -------------------------------- license -------------------------------- -->
 <div align='right'>
