@@ -23,13 +23,9 @@
 <p align="left">
   <h2>Skills</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,ts,py,php,java" />
+    <img src="https://skillicons.dev/icons?i=ts,java,php,rust,react,nextjs,tailwind,threejs,discordjs" />
   <h3></h3>
-    <img src="https://skillicons.dev/icons?i=npm,yarn,pnpm" />
-  <h3></h3>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,astro,tailwind,threejs,discordjs" />
-  <h3></h3>
-    <img src="https://skillicons.dev/icons?i=aws,docker,vite,supabase,mysql,vercel,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=supabase,postgresql,docker,aws,vercel,cloudflare" />
   <h3></h3>
     <img src="https://skillicons.dev/icons?i=blender,unity,figma" />
   </a>
