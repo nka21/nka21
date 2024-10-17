@@ -20,6 +20,7 @@
 
 <!-- -------------------------------- skills -------------------------------- -->
 
+<!--
 <p align="left">
   <h2>Skills</h2>
   <a href="https://skillicons.dev">
@@ -30,6 +31,7 @@
     <img src="https://skillicons.dev/icons?i=blender,unity,figma" />
   </a>
 </p>
+-->
 
 <!-- -------------------------------- license -------------------------------- -->
 <div align='right'>
