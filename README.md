@@ -12,13 +12,7 @@
 ### Framework & DB
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
-    <img height=30 src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,hono"
-    />
-  </a>
-</p>
-<p align="left">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img height=30 src="https://go-skill-icons.vercel.app/api/icons?i=tailwind,sass,sqlite"
+    <img height=30 src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,hono,tailwind,sass,sqlite"
     />
   </a>
 </p>
@@ -55,13 +49,7 @@
 ### Framework & DB
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
-    <img height=30 src="https://go-skill-icons.vercel.app/api/icons?i=astro,remix,rails,laravel,electron,tauri"
-    />
-  </a>
-</p>
-<p align="left">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img height=30 src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql"
+    <img height=30 src="https://go-skill-icons.vercel.app/api/icons?i=astro,remix,rails,laravel,electron,tauri,postgresql,mysql"
     />
   </a>
 </p>
