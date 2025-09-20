@@ -2,18 +2,42 @@
 <summary>🛠️ Often Use</summary>
 
 ### Languages
-- TypeScript, C++, C, Python, Go, Kotlin
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img height=30 src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,ts,go,py,kotlin"
+    />
+  </a>
+</p>
 
 ### Framework & DB
-- React, Next.js, Hono
-- Tailwind CSS, Sass
-- SQLite
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img height=30 src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,hono"
+    />
+  </a>
+</p>
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img height=30 src="https://go-skill-icons.vercel.app/api/icons?i=tailwind,sass,sqlite"
+    />
+  </a>
+</p>
 
 ### Infra & DevOps
-- Cloudflare, Docker, GitHub Actions
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img height=30 src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare,docker,githubactions"
+    />
+  </a>
+</p>
 
 ### Tools & Environment
-- Figma, Discord
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img height=30 src="https://go-skill-icons.vercel.app/api/icons?i=figma,discord"
+    />
+  </a>
+</p>
 
 </details>
 
@@ -21,20 +45,39 @@
 <summary>🔧 Used</summary>
 
 ### Languages
-- Java, Swift, Ruby, PHP, Rust
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img height=30 src="https://go-skill-icons.vercel.app/api/icons?i=java,php,swift,ruby,rust"
+    />
+  </a>
+</p>
 
 ### Framework & DB
-- Astro.js, Remix.js, Ruby on Rails, Laravel
-- Electron, Tauri, SwiftUI
-- PostgreSQL, MySQL
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img height=30 src="https://go-skill-icons.vercel.app/api/icons?i=astro,remix,rails,laravel,electron,tauri"
+    />
+  </a>
+</p>
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img height=30 src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql"
+    />
+  </a>
+</p>
 
-### Platforms & Services
-- AWS, GCP, Azure, Vercel, Supabase
-- Google Apps Script
-
-### Tools & Others
-- MySQL, Notion, Slack
-- Canva
-- Unity, Maya, Blender
+### Platforms & Tools
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img height=30 src="https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,azure,vercel,supabase,googleappsscript"
+    />
+  </a>
+</p>
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img height=30 src="https://go-skill-icons.vercel.app/api/icons?i=notion,slack,canva,unity,blender"
+    />
+  </a>
+</p>
 
 </details>
