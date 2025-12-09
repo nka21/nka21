@@ -41,7 +41,7 @@
 ### Languages
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
-    <img height=30 src="https://go-skill-icons.vercel.app/api/icons?i=java,php,swift,ruby,rust,kotlin"
+    <img height=30 src="https://go-skill-icons.vercel.app/api/icons?i=java,kotlin,php,swift,ruby,rust"
     />
   </a>
 </p>
