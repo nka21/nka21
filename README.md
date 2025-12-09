@@ -4,7 +4,7 @@
 ### Languages
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
-    <img height=30 src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,ts,go,py,kotlin"
+    <img height=30 src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,ts,go,py"
     />
   </a>
 </p>
@@ -12,7 +12,7 @@
 ### Framework & DB
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
-    <img height=30 src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,hono,tailwind,sass,sqlite"
+    <img height=30 src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,hono,tailwind"
     />
   </a>
 </p>
@@ -41,7 +41,7 @@
 ### Languages
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
-    <img height=30 src="https://go-skill-icons.vercel.app/api/icons?i=java,php,swift,ruby,rust"
+    <img height=30 src="https://go-skill-icons.vercel.app/api/icons?i=java,php,swift,ruby,rust,kotlin"
     />
   </a>
 </p>
@@ -49,7 +49,7 @@
 ### Framework & DB
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
-    <img height=30 src="https://go-skill-icons.vercel.app/api/icons?i=astro,remix,rails,laravel,electron,tauri,postgresql,mysql"
+    <img height=30 src="https://go-skill-icons.vercel.app/api/icons?i=astro,remix,rails,laravel,electron,tauri,postgresql,mysql,sqlite,sass"
     />
   </a>
 </p>
