@@ -20,7 +20,7 @@
 ### Infra & DevOps
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
-    <img height=30 src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare,docker,githubactions"
+    <img height=30 src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare,gcp,docker,githubactions,terraform"
     />
   </a>
 </p>
@@ -57,7 +57,7 @@
 ### Platforms & Tools
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
-    <img height=30 src="https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,azure,vercel,supabase,googleappsscript"
+    <img height=30 src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,vercel,supabase,googleappsscript"
     />
   </a>
 </p>
