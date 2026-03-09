@@ -1,3 +1,5 @@
+<image src="assets/image.png" alt="" />
+
 <details>
 <summary>🛠️ Often Use</summary>
 
